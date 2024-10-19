@@ -1,0 +1,16 @@
+ID,Expense ID,User ID,Split Amount,Owner ID,Total Amount,Title,Description
+1,1,1,5000.00,2,20000.00,Dinner Expense,Dinner with family
+2,1,2,5000.00,2,20000.00,Dinner Expense,Dinner with family
+3,1,3,5000.00,2,20000.00,Dinner Expense,Dinner with family
+4,1,4,5000.00,2,20000.00,Dinner Expense,Dinner with family
+5,2,1,5000.00,2,15000.00,Exact Split Expense,Example expense with exact split method
+6,2,2,0.00,2,15000.00,Exact Split Expense,Example expense with exact split method
+7,2,3,10000.00,2,15000.00,Exact Split Expense,Example expense with exact split method
+8,3,1,15000.00,2,50000.00,Percentage Split Expense,Example expense with percentage split method
+9,3,2,20000.00,2,50000.00,Percentage Split Expense,Example expense with percentage split method
+10,3,3,7500.00,2,50000.00,Percentage Split Expense,Example expense with percentage split method
+11,3,4,7500.00,2,50000.00,Percentage Split Expense,Example expense with percentage split method
+12,4,1,4500.00,2,9000.00,Percentage Split Expense,Example expense with percentage split method
+13,4,2,0.00,2,9000.00,Percentage Split Expense,Example expense with percentage split method
+14,4,3,3150.00,2,9000.00,Percentage Split Expense,Example expense with percentage split method
+15,4,4,1350.00,2,9000.00,Percentage Split Expense,Example expense with percentage split method
